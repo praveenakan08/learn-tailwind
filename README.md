@@ -1,3 +1,6 @@
 # learn-tailwind
 
-This project was developed in the process of me learning TailwindCSS with HTML and javascript.
+This project was intended for learning responsive design using TailwindCSS with HTML and JavaScript! 
+
+
+Deployed here: https://praveenakan08.github.io/learn-tailwind/
